@@ -2,5 +2,6 @@
 
 ## Contents
 
-1. [react-native hints](react-native-hints.md)
-2. [markdown cheatsheet](markdown-cheat-sheet.md)
+1. [react-native notes](react-native-notes.md)
+2. [markdown cheat sheet](markdown-cheat-sheet.md)
+3. [typescript cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
